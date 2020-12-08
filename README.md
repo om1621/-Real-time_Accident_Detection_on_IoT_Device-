@@ -63,12 +63,9 @@ You can install Conda for python which resolves all the dependencies for machine
 <h3>References</h3>
 
 <ul>
-<li> <a href="https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py">HRNN for the MNIST Dataset for Handwritten Number Recognition</a>
-<li> <a href="https://arxiv.org/abs/1506.01057">A Hierarchical Neural Autoencoder for Paragraphs and Documents</a>
 <li> <a href="https://ankitshah009.github.io/accident_forecasting_traffic_camera">CADP Dataset</a>
+<li> <a href="http://detrac-db.rit.albany.edu/">DETRAC Dataset</a>
+<li> <a href="#">Manually Created Dataset</a>
+
 </ul>
-
-<br /><br />
-
-#### Scripts for our minor project [Access to the image dataset](https://docs.google.com/forms/d/e/1FAIpQLSfuMMGafmiZ35alIgYkZeyGkR6gHhBURjxJPSe6aB6CWjN1EA/viewform) is made available under the Open Data Commons Attribution License: https://opendatacommons.org/licenses/by/1.0/.
 
